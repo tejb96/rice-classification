@@ -1,0 +1,27 @@
+done loading
+/home/zhuoyan.xu/software/miniconda3/envs/pytorch/lib/python3.7/site-packages/torchvision/models/_utils.py:209: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  f"The parameter '{pretrained_param}' is deprecated since 0.13 and may be removed in the future, "
+/home/zhuoyan.xu/software/miniconda3/envs/pytorch/lib/python3.7/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=VGG16_Weights.IMAGENET1K_V1`. You can also use `weights=VGG16_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+Epoch 1/10, Training Loss: 1.6186486113215475, Training Accuracy: 0.20226666666666668
+Validation Accuracy after epoch 1: 20.00%
+Epoch 2/10, Training Loss: 1.6121826526029108, Training Accuracy: 0.19784444444444443
+Validation Accuracy after epoch 2: 20.00%
+Epoch 3/10, Training Loss: 1.6110278298521008, Training Accuracy: 0.20126666666666668
+Validation Accuracy after epoch 3: 20.00%
+Epoch 4/10, Training Loss: 1.6110250535550148, Training Accuracy: 0.19706666666666667
+Validation Accuracy after epoch 4: 20.00%
+Epoch 5/10, Training Loss: 1.6109740984041638, Training Accuracy: 0.202
+Validation Accuracy after epoch 5: 20.00%
+Epoch 6/10, Training Loss: 1.610657985107053, Training Accuracy: 0.20204444444444444
+Validation Accuracy after epoch 6: 20.00%
+Epoch 7/10, Training Loss: 1.6105299610234187, Training Accuracy: 0.19948888888888888
+Validation Accuracy after epoch 7: 20.00%
+Epoch 8/10, Training Loss: 1.61030502326114, Training Accuracy: 0.19797777777777778
+Validation Accuracy after epoch 8: 20.00%
+Epoch 9/10, Training Loss: 1.6100852234446588, Training Accuracy: 0.2038888888888889
+Validation Accuracy after epoch 9: 20.00%
+Epoch 10/10, Training Loss: 1.6102504653124075, Training Accuracy: 0.19884444444444443
+Validation Accuracy after epoch 10: 20.00%
+Model saved to model_visual.pth
+Testing Accuracy: 20.00%

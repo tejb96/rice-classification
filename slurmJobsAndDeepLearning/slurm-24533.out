@@ -1,0 +1,23 @@
+done loading
+Epoch 1/10, Training Loss: 0.10559778776992504, Training Accuracy: 0.9619333333333333
+Validation Accuracy after epoch 1: 98.68%
+Epoch 2/10, Training Loss: 0.03989345742843058, Training Accuracy: 0.9868222222222223
+Validation Accuracy after epoch 2: 97.65%
+Epoch 3/10, Training Loss: 0.030574007399631984, Training Accuracy: 0.9901555555555556
+Validation Accuracy after epoch 3: 98.39%
+Epoch 4/10, Training Loss: 0.024020883469281676, Training Accuracy: 0.9919777777777777
+Validation Accuracy after epoch 4: 99.28%
+Epoch 5/10, Training Loss: 0.018920647859849385, Training Accuracy: 0.9935555555555555
+Validation Accuracy after epoch 5: 99.03%
+Epoch 6/10, Training Loss: 0.014122640796082917, Training Accuracy: 0.9952666666666666
+Validation Accuracy after epoch 6: 99.17%
+Epoch 7/10, Training Loss: 0.013581587478195467, Training Accuracy: 0.9954444444444445
+Validation Accuracy after epoch 7: 99.24%
+Epoch 8/10, Training Loss: 0.01101934646744043, Training Accuracy: 0.9967777777777778
+Validation Accuracy after epoch 8: 98.52%
+Epoch 9/10, Training Loss: 0.013188025741419342, Training Accuracy: 0.9956666666666667
+Validation Accuracy after epoch 9: 99.06%
+Epoch 10/10, Training Loss: 0.005432933137757014, Training Accuracy: 0.9981111111111111
+Validation Accuracy after epoch 10: 98.45%
+Model saved to model_cnn2.pth
+Testing Accuracy: 98.39%

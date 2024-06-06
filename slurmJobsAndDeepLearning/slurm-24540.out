@@ -1,0 +1,5 @@
+done loading
+Traceback (most recent call last):
+  File "heatmap.py", line 86, in <module>
+    inputs, labels = inputs.to(device), labels.to(device)
+NameError: name 'device' is not defined
